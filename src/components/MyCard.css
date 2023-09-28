@@ -1,0 +1,12 @@
+.card {
+    width: 18rem;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-text {
+    flex-grow: 1;
+}
